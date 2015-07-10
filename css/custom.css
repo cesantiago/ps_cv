@@ -164,10 +164,18 @@ i.fa.fa-twitter-square.fa-3x{
     		padding: 0px;
     	}
 
+		#name h1{
+			font-size: 37px;
+		}
+
+		#main-image{
+			height: 240px;
+		}
+
 		.jumbotron h1{
-		font-size: 30px;
-		margin-bottom: 25px;
-		padding: 0;
+			font-size: 30px;
+			margin-bottom: 25px;
+			padding: 0;
 		}
 
 		.jumbotron p{
@@ -177,10 +185,6 @@ i.fa.fa-twitter-square.fa-3x{
 
 		.jumbotron .container{
 		margin-top: 0px;
-		}
-
-		#main-image{
-			height: 240px;
 		}
 
 		.modal-content iframe{
